@@ -1,3 +1,1 @@
-# Initial code for Udemy course [ChatBots: Messenger ChatBot - DialogFlow and nodejs](https://www.udemy.com/chatbots/?couponCode=GITHUB)
-
-
+This is my B.Tech project 2020. It not complete yet once its completed i will update the details about how to use the above code.
